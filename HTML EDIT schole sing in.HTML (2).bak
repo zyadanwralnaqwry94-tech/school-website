@@ -1,0 +1,79 @@
+<HTMl>
+
+<head>
+
+   
+  <title>
+Amr ebn elaas school sing in
+ </TITLE>
+ <center><font color="blue"<BOLD><h1>Amr ibn elaas school sing in</h1></BOLD><FONT></center>
+   <img/src="amr school.jpg" style="width:200px;height:200px" align="right"><br><br><Br><br><BR><BR><BR><Br><br><BR><BR><BR>
+   
+   
+   
+   
+   
+   <style>
+body{
+   background-image:url("zzz.png");
+   background-size:cover;
+   
+   background-repeat:yes-repeat;
+   
+   }
+   
+   </style>
+   
+   
+   
+   
+    </head>
+   <div>
+    <form>
+      <font color="Black"><center> Student name <input type="text" placeholder="student name"></center></font><Br><br>
+      <font color="black"><center>Student password <input type="password"placeholder="student password"><center><Br><br>
+	  
+	  
+        <label>date of birth</label>
+		<input type="date"><br><br><br>
+      Gender : Male<input type="radio" value name="Zizoo"> 
+              Female<input type="radio"value name="Zizoo"> <br><br><Br>
+			  
+			 <label>student,s stage</label>
+			  <input list="stage" name="zizooo">
+			  <datalist id="stage"><br><br>
+			  
+			    
+			  <option value="Primary stage">
+			  <option value="Preparatory stage">
+			  <option value="High stage"><br>
+			  
+			  </datalist><br><br><Br>
+			  
+			  <label>date of registration</label>
+			  
+			  
+			  <input type="date"><br><br><br>
+			  
+			  
+			  student age <input type="Number" max="19" min="4"><BR><Br><Br>
+			  
+        chose foreign language : <BR><BR>
+		English<input type="checkbox"><br>
+       Italian <input type="checkbox"> <br>
+         French<input type="checkbox"> <br>
+		Spanish<input type="checkbox"><br><BR><BR> <br>
+		Student set number <input type="Number" min="600"><BR><BR><BR><br>
+
+            <label for="email">E-mail</label>
+            <input type="email" id="email"placeholder="as zizoo@gmail.com">
+
+            <input type="submit" value="ارسال"><br><br><br>
+            <input type="reset" value="Reset">
+        </form>
+		</div>
+</body>
+<p>للمزيد من المعلومات انقر الرابط اسفل الصفحة</p>
+<a href="https://www.facebook.com/profile.php?id=61559620313456">Facebook</a>
+
+</html>

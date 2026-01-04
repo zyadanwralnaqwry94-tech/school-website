@@ -1,0 +1,47 @@
+p{
+    font-size: 33px;
+    color: gold;
+}
+body{background-color: black;
+
+}
+header{background-color: black;
+    color: cornsilk;
+    padding: 1em;
+    font-family: sans-serif;
+
+}
+
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0.7rem 0.7rem;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #111;
+}
+p:hover{
+    color:  rgba(248, 224, 7,0.7);
+}
+h1:hover{
+    text-align: right;
+    text-decoration: underline;}
+
+
+    body{background: linear-gradient(to left, #00ffff, #ff03ff);    }
